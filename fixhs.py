@@ -3,7 +3,7 @@ swaps one addition hitsound for another across a whole .osu diff
 
 usage: open a terminal and cd to the dir with the python file (or just type the path to the dir)
 python fixhs.py path/to/osu/the_.osu --from [bad-hitsample] --to [good-hitsample] 
-example: python fixhs.py "C:/Users/peppyosu/AppData/Local/osu!/21581 Perfume ft peppy - Baby Cruising Love/Perfume ft. peppy - Baby Cruising Love (me) [super cool map]" --from soft-hitfinish67 --to drum-hitclap
+example: python fixhs.py "C:/Users/peppyosu/AppData/Local/osu!/Songs/21581 Perfume ft peppy - Baby Cruising Love/Perfume ft. peppy - Baby Cruising Love (me) [super cool map]" --from soft-hitfinish67 --to drum-hitclap
 
 (if your path contains any spaces (like in "Perfume ft peppy") then you have to put quotes around your path)
 """
